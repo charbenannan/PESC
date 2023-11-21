@@ -421,13 +421,13 @@ From electrical conduit, transformers, generators, inverters, telephone, fire al
     <p className="text-lg ">
      We offer a broad spectrum of electrical installation works, 
 spanning Residential, Commercial, Civic, Industrial, Hospitality, 
-Sporting facilities, Mixed-use, and more.We supplying certified electrical fittings, 
+Sporting facilities, Mixed-use, and more. We supply certified electrical fittings, 
 cables, fixtures, and accessories, ensuring top-notch quality in all assigned 
 projects.
-We providing flexible service options, from supply only to comprehensive 
+We provide flexible service options, from supply only to comprehensive 
 advisory, supply, and install services, tailored to meet client preferences.
- Prioritizing safety in every project, we meticulously address factors such as longevity, life cycle costs, and potential risks, minimizing client concerns.
- Attuned to client feedback, we execute works with precision, addressing concerns such as fire hazards, poorly executed installations, financial outlays, and market conditions.
+ Prioritizing safety in every project, we meticulously address longevity, life cycle costs, and potential risks, minimizing client concerns.
+ Attuned to client feedback, we execute works precisely, addressing concerns such as fire hazards, poorly executed installations, financial outlays, and market conditions.
     </p>
     </Reveal>
   </div>
@@ -437,7 +437,7 @@ advisory, supply, and install services, tailored to meet client preferences.
     <p className="text-2xl">Our Work</p>
     <h4 className="text-3xl my-4">WE ARE THE BEST IN BUSINESS</h4>
     <p className="text-lg ">
-      Expert in both internal and external electrical works, we specialize in a wide array of installations, from low to high voltage. Our rich project portfolio reflects our prowess across diverse sectors, ensuring precision and success. Offering certified materials and a client-centric approach, we prioritize quality, reliability, and tailored solutions for lasting impact.
+      Experts in internal and external electrical works, we specialize in a wide array of installations, from low to high voltage. Our rich project portfolio reflects our prowess across diverse sectors, ensuring precision and success. Offering certified materials and a client-centric approach, we prioritize quality, reliability, and tailored solutions for lasting impact.
     </p><br/>
     <p><i className="fa-solid fa-warehouse fa-beat-fade"></i>  Comprhensive Portfolio</p><br/>
     <p><i className="fa-solid fa-boxes-packing fa-beat-fade"></i> Supply Excellence</p><br/>
