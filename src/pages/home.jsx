@@ -164,7 +164,7 @@ export default function Home(){
     <h1 className="md:text-6xl text-4xl font-bold mb-4 mt-20 text-[#47126C]">POWER ENGINEERING <br /><span className="text-[#F43838]">SERVICES CO. LTD</span></h1>
     <p className="text-lg mb-8 mt-8 text-black w-1/2 mx-auto"> We are electrical contractors and suppliers to satisfy the urgent needs of customers by providing professional, quality and custom-made services in the competitive field of electrical engineering</p>
   </Reveal> 
-    <button onClick={() => navigate("/services")} className="btn-orange text-white bg-purple-500 hover-bg-purple-400">Services</button>
+    <button onClick={() => navigate("/services")} className="btn-orange text-white bg-purple-500 hover-bg-purple-400 mb-5">Services</button>
   
   </div>
 </div>
