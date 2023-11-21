@@ -1,0 +1,84 @@
+nav,body, footer{
+    font-family: 'Montserrat';   
+}
+.mobile-bg{
+    background-color: #fff;
+    opacity: 0.8;   
+}
+hr{
+    color: #F43838;
+    width: 20%;
+    height: 10px;
+    
+}
+
+.btn-orange{
+width: 191px;
+height: 50px;;
+background: #F43838;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+text-transform: uppercase;
+}
+.btn-orange:hover, .btn-orange-rect:hover{
+ cursor: pointer;
+ box-shadow: 0px 4px 4px rgba(72, 71, 71, 0.25), 0px 4px 4px rgba(72, 71, 71, 0.25), 0px 4px 4px rgba(72, 71, 71, 0.25), 0px 4px 4px rgba(72, 71, 71, 0.25), 0px 4px 4px rgba(72, 71, 71, 0.25), 0px 4px 4px rgba(72, 71, 71, 0.25), 0px 4px 4px rgba(72, 71, 71, 0.25), 0px 4px 4px rgba(72, 71, 71, 0.25);
+ background: #f97d7d;
+ color: #C0C0C0;
+}
+.btn-orange-rect{
+width: 191px;
+height: 50px;;
+background: #F43838;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-transform: uppercase;
+color: #fff;
+}
+.btn-white{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.btn-white:hover{
+    background-color: #C0C0C0;
+    color:#faecec;
+}
+input{
+width: 363px;
+height: 43px;   
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+input[placholder="message"]{
+height:157px !important;
+}
+.form{
+background: #FFFFFF;
+border: 1px solid rgba(71, 18, 108, 0.3);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+margin: 60px 30px 5px 30px;
+padding: 20px;
+}
+.contact-cards{
+    margin-top: 60px;
+}
+.contact-card1, .contact-card2, .contact-card3{
+    border: 1px solid rgba(71, 18, 108, 0.3);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+     
+}
+
+@media (max-width: 320px) { 
+  .text-lg {
+    font-size: 12px; 
+  }
+
+  .container {
+    max-width: 90%; 
+  }
+}
+@media (max-width: 768px) {
+    .mt-32 {
+      margin-top: 16px; 
+    }
+  }
+  

@@ -1,0 +1,34 @@
+.Brands {
+    text-align: center;
+  }
+  
+  .slider {
+    overflow: hidden;
+    width: 80%; 
+    margin: 0 auto;
+  }
+  
+  .slide-track {
+    display: flex; 
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .slide {
+    flex: 0 0 100%; 
+    box-sizing: border-box;
+    height: 200px; 
+    display: flex;
+    justify-content: space-around; 
+    align-items: center; 
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    max-height: 100%; 
+  }
+  img:hover {
+    transform: translateZ(20px);
+}
+  
+  
